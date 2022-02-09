@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is Abe and I'm a PhD candidate from Northeastern University working as a part of the CMS (Compact Muon Solenoid) Collaboration, currently based at CERN in Geneva, Switzerland. I'm passionate about teaching and learning, and currently practice that in the context of high energy physics. Right now I'm working on Higgs Boson pair production physics, and the optimization of the CMS ECAL (Electromagnetic Calorimeter).
+My name is Abe and I'm a PhD candidate from Northeastern University working as a part of the CMS (Compact Muon Solenoid) Collaboration, and I am currently based at CERN in Geneva, Switzerland. I'm passionate about teaching and learning, and currently practice that in the context of high energy physics. Right now I'm working on Higgs Boson pair production physics, and the optimization of the CMS ECAL (Electromagnetic Calorimeter).
 
 Feel free to e-mail me about anything at: `abraham.tishelman.charny@cern.ch`
 
