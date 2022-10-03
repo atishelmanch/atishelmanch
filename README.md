@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is Abraham (Abe) Tishelman-Charny and I am a postdoctoral researcher at Brookhaven National Laboratory, working as a part of the ATLAS collaboration, and I am currently based at BNL on Long Island (USA). I'm passionate about teaching and learning, and currently practice that in the context of high energy physics. Right now I'm working on the physics of Higgs Boson pair production, and the assembly and testing of the ATLAS tracker upgrade (ITk). 
+My name is Abraham (Abe) Tishelman-Charny and I am a postdoctoral researcher at Brookhaven National Laboratory, working as a part of the ATLAS collaboration, and I am currently based at BNL on Long Island (USA). I'm passionate about teaching and learning, and currently practice that in the context of high energy physics. I am currently studying the physics of Higgs Boson pair production, and am working on the assembly and testing of the ATLAS strip tracker upgrade (ITk). 
 
 Feel free to e-mail me about anything at: `abraham.tishelman.charny@cern.ch`
 
